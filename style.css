@@ -1,0 +1,78 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+.mom {
+    border: 1px solid black;
+    padding: 50px;
+
+
+
+}
+
+.minibaby {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 30px;
+}
+
+.secondbaby {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.fr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue2 {
+    border: 1px solid black;
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+}
+
+.red2 {
+    border: 1px solid black;
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
+
+.green2 {
+    border: 1px solid black;
+    background-color: green;
+    width: 50px;
+    height: 50px;
+}
+
+.blue1 {
+    color: blue;
+}
+
+.red1 {
+    color: red;
+}
+
+.green1 {
+    color: green;
+}
